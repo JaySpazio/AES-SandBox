@@ -1,3 +1,9 @@
+# Visual Studio Code Stuff
+.vsccode/*
+
+# Output Folder
+output/*
+
 # Prerequisites
 *.d
 
